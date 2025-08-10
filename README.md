@@ -37,6 +37,8 @@ This tool assists sports scientists in segmenting and analyzing plays on a play-
 ## Requirements
 Install dependencies:
 ```bash
+pip install pandas numpy matplotlib seaborn tslearn stumpy tqdm
+```
 
 ## Usage
 1. Place GPS (`.csv`) and video annotation files in the expected folder structure:
@@ -48,8 +50,10 @@ data/
 
 2. Update file paths inside `SummerFellowship.py` if needed.  
 3. Run the script:
+
 ```bash
 python SummerFellowship.py
+```
 
 Results
 Generates metabolic power templates for different play types.
