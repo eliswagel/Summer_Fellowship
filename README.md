@@ -44,9 +44,9 @@ pip install pandas numpy matplotlib seaborn tslearn stumpy tqdm
 1. Place GPS (`.csv`) and video annotation files in the expected folder structure:
 
 data/
-├── 10hz/
-├── catapult_activity_list/
-└── video/
+   ├── 10hz/
+   ├── catapult_activity_list/
+   └── video/
 
 2. Update file paths inside `SummerFellowship.py` if needed.  
 3. Run the script:
@@ -56,9 +56,9 @@ python SummerFellowship.py
 ```
 
 Results
-Generates metabolic power templates for different play types.
-Produces plots for cluster centers and individual time series.
-Outputs DataFrames of detected plays with:
-Start and end times
-Maximum metabolic power
-Number of players on/off the field
+   - Generates metabolic power templates for different play types.
+   - Produces plots for cluster centers and individual time series.
+   - Outputs DataFrames of detected plays with:
+      - Start and end times
+      - Maximum metabolic power
+      - Number of players on/off the field
