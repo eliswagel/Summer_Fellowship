@@ -37,16 +37,16 @@ This tool assists sports scientists in segmenting and analyzing plays on a play-
 ## Requirements
 Install dependencies:
 ```bash
-pip install pandas numpy matplotlib seaborn tslearn stumpy tqdm
 
 ## Usage
 1. Place GPS (`.csv`) and video annotation files in the expected folder structure:
+
 data/
 ├── 10hz/
 ├── catapult_activity_list/
 └── video/
 
-2. Update file paths inside `SummerFellowship.py` if needed.
+2. Update file paths inside `SummerFellowship.py` if needed.  
 3. Run the script:
 ```bash
 python SummerFellowship.py
@@ -58,4 +58,3 @@ Outputs DataFrames of detected plays with:
 Start and end times
 Maximum metabolic power
 Number of players on/off the field
-
