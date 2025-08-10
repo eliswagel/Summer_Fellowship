@@ -43,10 +43,12 @@ pip install pandas numpy matplotlib seaborn tslearn stumpy tqdm
 ## Usage
 1. Place GPS (`.csv`) and video annotation files in the expected folder structure:
 
+```text
 data/
    ├── 10hz/
    ├── catapult_activity_list/
    └── video/
+```
 
 2. Update file paths inside `SummerFellowship.py` if needed.  
 3. Run the script:
