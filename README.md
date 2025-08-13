@@ -2,8 +2,7 @@
 
 # Summer_Fellowship
 
-**Automated Play Segmentation of Continuous GPS Data from Collegiate Football Players**  
-*Wu-Tsai Undergraduate Fellowship – University of Oregon*  
+**Automated Play Segmentation of Continuous GPS Data from Collegiate Football Players**    
 Author: Eli Swagel  
 
 ## Overview
