@@ -1,6 +1,4 @@
-# Summer_Fellowship
 
-Eli Swagel's Project
 
 # Summer_Fellowship
 
