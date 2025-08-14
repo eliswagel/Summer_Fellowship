@@ -6,7 +6,7 @@
 Author: Eli Swagel  
 
 ## Overview
-This project automates the identification of football plays from continuous high-frequency (10Hz) GPS tracking data collected from collegiate athletes. Using **time-series clustering** and **pattern matching**, it builds play templates based on metabolic power and applies them to find similar plays across games.  
+This project automates the identification of football plays from continuous high-frequency (10Hz) GPS tracking data collected from University of Oregon football players. Using **time-series clustering** and **pattern matching**, it builds play templates based on metabolic power and applies them to find similar plays across games.  
 
 This tool assists sports scientists in segmenting and analyzing plays on a play-by-play basis, enabling better workload management and performance analysis.
 
